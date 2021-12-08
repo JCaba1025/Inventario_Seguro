@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void CrearUsuario(View view){
+    public void CreateNewUser(View view){
 
         Intent a = new Intent(this, CreateUser.class);
         startActivity(a);

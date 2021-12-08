@@ -5,7 +5,7 @@
 
     <gradient
 
-        android:centerX="@integer/material_motion_duration_medium_1"
+
         android:centerColor="@color/primaryDarkColor"
 
         />

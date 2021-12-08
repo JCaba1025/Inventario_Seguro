@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/MinTic/Ciclo4/Almacenamiento/app/src/main/res/layout/activity_create_user.xml" value="0.22" />
+        <entry key="..\:/MinTic/Ciclo4/Almacenamiento/app/src/main/res/drawable/border.xml" value="0.1" />
+        <entry key="..\:/MinTic/Ciclo4/Almacenamiento/app/src/main/res/drawable/border2.xml" value="0.1" />
+        <entry key="..\:/MinTic/Ciclo4/Almacenamiento/app/src/main/res/drawable/border3.xml" value="0.1" />
+        <entry key="..\:/MinTic/Ciclo4/Almacenamiento/app/src/main/res/layout/activity_create_user.xml" value="0.16" />
+        <entry key="..\:/MinTic/Ciclo4/Almacenamiento/app/src/main/res/layout/activity_list_equip_view.xml" value="0.1" />
         <entry key="..\:/MinTic/Ciclo4/Almacenamiento/app/src/main/res/layout/activity_login.xml" value="0.2" />
         <entry key="..\:/MinTic/Ciclo4/Almacenamiento/app/src/main/res/layout/activity_main.xml" value="0.15" />
       </map>

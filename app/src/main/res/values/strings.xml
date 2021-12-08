@@ -11,5 +11,7 @@
     <string name="email">Ingrese correo</string>
     <string name="PassWord">Ingrese contraseña</string>
     <string name="VPassWord">Repita contraseña</string>
-    <string name="SingIn">Ingresar</string>
+    <string name="Invalid_email">Ingrese un correo valido</string>
+    <string name="Invalid_passW">Ingrese una contraseña superior a 6 caracteres</string>
+    <string name="PassW_NoEquals">Las contraseñas son diferentes</string>
 </resources>
