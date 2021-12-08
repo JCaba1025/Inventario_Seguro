@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Inventario Seguro</string>
+    <string name="Titulo_1">Inventario <br /> Seguro </string>
+    <string name="Enter">Ingresar</string>
+    <string name="Question_1_1">¿Desea crear</string>
+    <string name="Question_1_2">nuevo usuario?</string>
+    <string name="SingIn">Ingresar</string>
+    <string name="SingUp">Registrar</string>
+    <string name="Nick">Ingrese usuario</string>
+    <string name="name">Ingrese nombre</string>
+    <string name="email">Ingrese correo</string>
+    <string name="PassWord">Ingrese contraseña</string>
+    <string name="VPassWord">Repita contraseña</string>
+    <string name="SingIn">Ingresar</string>
 </resources>
